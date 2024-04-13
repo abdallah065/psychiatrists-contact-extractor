@@ -1,6 +1,6 @@
 
 
-# psychiatrists-contact-extractor
+# Australian Psychiatrists Contact Information
 This repository contains extracted contact information of psychiatrists in Australia from yourhealthinmind.org. The data includes details such as first name, last name, email, phone number, and address. The data is organized in a CSV format for easy analysis and use."
 
 <img src="/images/website.png" alt="Website" width="700"/>
